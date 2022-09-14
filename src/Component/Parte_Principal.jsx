@@ -1,4 +1,5 @@
 import React from 'react'
+import mon_image from "../img/moi.jpg"
 
 function Parte_Principal() {
   return (
@@ -7,22 +8,24 @@ function Parte_Principal() {
 
 <section className='section_principal'
         class="flex flex-wrap items-center -mx-3 font-sans px-4 mx-auto w-full lg:max-w-screen-lg sm:max-w-screen-sm md:max-w-screen-md pb-20">
-        <div class="px-3 w-full lg:w-2/5">
+        <div class="px-1 w-full lg:w-4/5">
             <div
-                class="mx-auto mb-8 max-w-lg text-center lg:mx-0 lg:max-w-md lg:text-left">
-                <h2 class="mb-4 text-3xl font-bold text-left lg:text-5xl">
-                    Exclusive Agency For
+                class="mx-auto mb-8 max-w-lg text-center lg:mx-0 lg:max lg:text-left">
+                <h2 class="mb-4 text-3xl font-bold text-left text-white lg:text-5xl">
+                   
 
                     <span class="text-5xl text-blue-500 leading-relaxeds"
-                        >Technology
+                        >Hamza Belyahiaoui
                     </span>
 
-                    Provide Solution
-                </h2>
-
+         </h2>
+<span className='text-2xl font-extrabold  bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-pink-500 '>
+Developpeur web
+</span>
+       
                 <p
-                    class="visible mx-0 mt-3 mb-0 text-sm leading-relaxed text-left text-slate-400">
-                    Helping you maximize operations management with digitization
+                    class="visible mx-0 mt-3 mb-0 text-m leading-relaxed text-center text-white">
+                   Jeune développeur web de la formation Développeur web & web mobile. Je maîtrise les technologies front-end, notamment Html, Css, et JavaScript avec les frameworks Bootstrap et React je fait aussi du back-end, et particulièrement PHP avec le frameworks Laravel. Pour les CMS, je me suis familiarisé avec le WordPress Pour la partie gestion de projets, j’ai des connaissances en méthode agile ainsi que l’outil Git pour la gestion de version de projet
                 </p>
             </div>
 

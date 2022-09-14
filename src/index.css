@@ -5,19 +5,14 @@
 
 .body{
 
-  background-image: url("https://www.apple.com/v/macbook-pro-13/m/images/meta/macbook-pro-13_overview__bcsyunk73i2a_og.jpg");
-  background-repeat: no-repeat;
-  background-size: contain;
+  background-image: url("https://i.pinimg.com/originals/3b/8c/b8/3b8cb8ce4187d3b5ade6c0c52bac3316.jpg");
   background-color: black;
-}
-.bg-image{
 
-
-  background-image: url("https://ascii.jp/img/2020/11/11/3118724/l/1889c904fbaeb5aa.jpg");
   background-repeat: no-repeat;
-  background-size: contain;
 }
-.section_principal{
 
+@media screen and (max-width: 500px)  {
+  .body {
 
+  }
 }
