@@ -1,13 +1,23 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+
+.body{
+
+  background-image: url("https://www.apple.com/v/macbook-pro-13/m/images/meta/macbook-pro-13_overview__bcsyunk73i2a_og.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-color: black;
+}
+.bg-image{
+
+
+  background-image: url("https://ascii.jp/img/2020/11/11/3118724/l/1889c904fbaeb5aa.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.section_principal{
+
+
 }
