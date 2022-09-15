@@ -1,5 +1,4 @@
 import React from 'react'
-import img_react from "../img/react.png"
 
 export default function Competence() {
   return (
