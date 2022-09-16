@@ -19,7 +19,7 @@ function Parte_Principal() {
 
                         </h2>
                         <span className='text-2xl font-extrabold border-b text-white'>
-                            Developpeur web
+                            Developpeur web et web mobile
                         </span>
 
                         <p
@@ -59,15 +59,21 @@ function Parte_Principal() {
             </div>
             <div class="flex justify-center pb-3 text-slate-700">
                 <div class="text-center mr-3 border-r pr-3 last:border-r-0">
+                    <a href=""></a>
                     <img style={{height:"45px",color:"white"}} src="https://cdn-icons-png.flaticon.com/512/3488/3488435.png" alt="" />
                 </div>
                 <div class="text-center mr-3 border-r pr-3 last:border-r-0">
                   <img style={{height:"40px",}} src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="" />
                 </div>
+                <a href="https://www.linkedin.com/in/hamza-belyahiaoui-544648240/">
                 <div class="text-center mr-3 ">
-                  <img style={{height:"40px",}} src="https://cdn-icons-png.flaticon.com/512/408/408703.png" alt="" />
-                </div>
+                   
 
+                                          <img style={{height:"40px",}} src="https://cdn-icons-png.flaticon.com/512/408/408703.png" alt="" />
+
+                   
+                </div>
+ </a>
             </div>
         </div>
     </a>

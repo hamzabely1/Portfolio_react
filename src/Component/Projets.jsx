@@ -13,7 +13,7 @@ export default function Projets() {
         <section class="mt-6 grid md:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-8">
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
                 <div class="relative w-full h-80 md:h-64 lg:h-44">
-                    <img src="https://gifted-einstein-f29c42.netlify.app/quiz.png"
+                    <img src="https://gifted-einstein-f29c42.netlify.app/jeux.png"
                         alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
                         class="w-full h-full object-center object-cover"/>
                 </div>
@@ -47,7 +47,7 @@ export default function Projets() {
             </article>
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
                 <div class="relative w-full h-80 md:h-64 lg:h-44">
-                    <img src="https://cdn.pixabay.com/photo/2021/08/03/11/01/stairs-6519085_960_720.jpg"
+                    <img src="https://gifted-einstein-f29c42.netlify.app/quiz.png"
                         alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
                         class="w-full h-full object-center object-cover"/>
                 </div>
@@ -64,7 +64,7 @@ export default function Projets() {
             </article>
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
                 <div class="relative w-full h-80 md:h-64 lg:h-44">
-                    <img src="https://cdn.pixabay.com/photo/2021/09/12/17/43/parrot-feathers-6619082_960_720.jpg"
+                    <img src="https://gifted-einstein-f29c42.netlify.app/blog.png"
                         alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
                         class="w-full h-full object-center object-cover"/>
                 </div>
