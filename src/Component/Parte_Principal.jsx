@@ -46,7 +46,6 @@ function Parte_Principal() {
                 </p>
                 <p class="flex mt-2 font-sans font-light text-slate-700">
                 <img style={{height:"20px",marginTop:"3px",margin:"5px"}} src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="" />
- 
                    07 73 86 74 96
                    </p>
                    <p class=" flex mt-2 font-sans font-light text-slate-700">
@@ -58,13 +57,19 @@ function Parte_Principal() {
                    </p>  
             </div>
             <div class="flex justify-center pb-3 text-slate-700">
+                 <a href="https://github.com/hamzabely1">
                 <div class="text-center mr-3 border-r pr-3 last:border-r-0">
-                    <a href=""></a>
+                  
                     <img style={{height:"45px",color:"white"}} src="https://cdn-icons-png.flaticon.com/512/3488/3488435.png" alt="" />
                 </div>
-                <div class="text-center mr-3 border-r pr-3 last:border-r-0">
+                 </a>
+                <a href="https://www.instagram.com">
+
+                  <div class="text-center mr-3 border-r pr-3 last:border-r-0">
                   <img style={{height:"40px",}} src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="" />
-                </div>
+                </div>  
+                </a>
+                
                 <a href="https://www.linkedin.com/in/hamza-belyahiaoui-544648240/">
                 <div class="text-center mr-3 ">
                    
