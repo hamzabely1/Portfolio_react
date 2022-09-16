@@ -24,7 +24,7 @@ function Presentation(props) {
                     Portofolio
                 </a>
                 <a
-                    class="flex text-m text-gray-600 cursor-pointer transition-colors duration-300 font-bold hover_nav">
+                    class="flex text-m text-gray-600 cursor-pointer transition-colors duration-300 font-bold hover:text-blue-500">
                    Présentation
                 </a>
               
