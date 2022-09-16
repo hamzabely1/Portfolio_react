@@ -11,17 +11,16 @@
   background-repeat: no-repeat;
 }
 
-
-.hover_nav:hover{
-
- 
-
+.flex_pp{
+  display: flex;
+  
 }
 
-
-
 @media screen and (max-width: 500px)  {
-  .body {
+  .flex_pp {
+
+display: flex;
+flex-direction: column;
 
   }
 }

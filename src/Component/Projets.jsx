@@ -13,7 +13,7 @@ export default function Projets() {
         <section class="mt-6 grid md:grid-cols-2 lg:grid-cols-4 gap-x-6 gap-y-8">
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
                 <div class="relative w-full h-80 md:h-64 lg:h-44">
-                    <img src="https://cdn.pixabay.com/photo/2021/07/24/01/42/zebra-dove-6488440_960_720.jpg"
+                    <img src="https://gifted-einstein-f29c42.netlify.app/quiz.png"
                         alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
                         class="w-full h-full object-center object-cover"/>
                 </div>
@@ -21,16 +21,16 @@ export default function Projets() {
                     <h3 class="text-sm text-gray-500 pb-2">
                         <a class="bg-indigo-600 py-1 px-2 text-white rounded-lg" href="#">
                             <span class="absolute inset-0"></span>
-                            Basic Level
+                            Projet jeux
                         </a>
                     </h3>
                     <p class="text-base font-semibold text-gray-900 group-hover:text-indigo-600">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    L'objectif de ce projet est de faire un petit jeu en Javascript sans framework. Il va permettre d'utiliser le JS, l'algorithmie de base, la manipulation du DOM et la POO dans un contexte ludique... mais professionnel.</p>
                 </div>
             </article>
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
                 <div class="relative w-full h-80 md:h-64 lg:h-44">
-                    <img src="https://cdn.pixabay.com/photo/2021/09/08/20/45/bird-6607863_960_720.jpg.jpg"
+                    <img src="https://gifted-einstein-f29c42.netlify.app/ca.png"
                         alt="Desk with leather desk pad, walnut desk organizer, wireless keyboard and mouse, and porcelain mug."
                         class="w-full h-full object-center object-cover"/>
                 </div>
@@ -38,11 +38,11 @@ export default function Projets() {
                     <h3 class="text-sm text-gray-500 pb-2">
                         <a class="bg-indigo-600 py-1 px-2 text-white rounded-lg" href="#">
                             <span class="absolute inset-0"></span>
-                            Basic Level
+                            Challenge js calendar
                         </a>
                     </h3>
                     <p class="text-base font-semibold text-gray-900 group-hover:text-indigo-600">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    L'objectif de ce challenge c'est de réaliser une petite application d'agenda par groupes de trois personnes </p>
                 </div>
             </article>
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
@@ -55,11 +55,11 @@ export default function Projets() {
                     <h3 class="text-sm text-gray-500 pb-2">
                         <a class="bg-indigo-600 py-1 px-2 text-white rounded-lg" href="#">
                             <span class="absolute inset-0"></span>
-                            Intermediate Level
+                            Projet Quiz
                         </a>
                     </h3>
                     <p class="text-base font-semibold text-gray-900 group-hover:text-indigo-600">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    Projet Quizz Créer une application de type quizz/QCM/questionnaire</p>
                 </div>
             </article>
             <article class="bg-white group relative rounded-lg overflow-hidden shadow-lg hover:shadow-2xl transform duration-200">
@@ -72,11 +72,11 @@ export default function Projets() {
                     <h3 class="text-sm text-gray-500 pb-2">
                         <a class="bg-indigo-600 py-1 px-2 text-white rounded-lg" href="#">
                             <span class="absolute inset-0"></span>
-                            Advanced Level
+                            Blog
                         </a>
                     </h3>
                     <p class="text-base font-semibold text-gray-900 group-hover:text-indigo-600">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                    Créer une plateforme de blog en PHP avec une gestion des utilisateur·ices.</p>
                 </div>
             </article>
         </section>

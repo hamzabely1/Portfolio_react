@@ -7,7 +7,7 @@ import Projets from '../Component/Projets';
 function Home(props) {
     return (
         <div>
-       <main class="flex flex-col items-center justify-center mt-32">
+       <main class="flex flex-col items-center justify-center">
             
    <Presentation/>
       <Parte_Principal/>
